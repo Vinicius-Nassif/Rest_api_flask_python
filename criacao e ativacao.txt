@@ -1,0 +1,18 @@
+# Instalação do venv
+
+pip install virtualenv --user
+
+# Criação do venv
+
+python -m venv ambvir
+
+
+# Ativação do venv
+
+ambvir\Scripts\activate
+
+# Linkando o vscode ao flask
+
+pip install pylint
+
+code .

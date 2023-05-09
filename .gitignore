@@ -1,0 +1,7 @@
+key.py
+.ipynb_checkpoints/
+ambvir/
+__pycache__/
+banco.db
+lista_hoteis.txt
+
